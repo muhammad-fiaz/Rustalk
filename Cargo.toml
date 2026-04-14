@@ -23,7 +23,7 @@ aes-gcm = "0.10"
 sha2 = "0.10"
 hex = "0.4"
 base64 = "0.21"
-rand = "0.8"
+rand = "0.9"
 clap = { version = "4.0", features = ["derive"] }
 crossterm = "0.27"
 ratatui = "0.24"
